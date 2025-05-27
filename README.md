@@ -1,5 +1,10 @@
 # rus-c
-Rusificator for C language. Русификатор для языка С.
+Русификатор для языка С.
+<br>
+Просто включить заголовок в код и пользоваться.
+<br>
+Не стесняйтесь просмотреть и изменять заголовок.
+
 
 ![image](https://github.com/user-attachments/assets/a067ae20-4e5d-4c4a-abd6-54df643c1f84)
 
